@@ -201,9 +201,9 @@ This project is **open-source** and licensed under the **MIT License**. You’re
 
 💖 **Pawan Kumar Singh**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pawan9675-black?style=flat&logo=github)](https://github.com/Pawan9675)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pawan%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pawan-singh-5627a32a5/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%40Pawan9675-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Pawan9675)  
+[![GitHub](https://img.shields.io/badge/%20GitHub-Pawan9675-black?style=for-the-badge&logo=github)](https://github.com/Pawan9675)  
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Pawan%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pawan-singh-5627a32a5/)  
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-%40Pawan9675-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Pawan9675)   
 
 --- 
 
