@@ -8,10 +8,6 @@ A meticulously crafted, pixel-perfect clone of the Blinkit grocery delivery plat
 
 ![Blinkit Clone Demo](Images/desktop-demo.gif)
 
-## 📋 Overview
-
-This project is a responsive front-end clone of Blinkit (formerly Grofers), India's leading instant grocery delivery service. The application features a clean, modern UI that closely resembles the original Blinkit platform, showcasing advanced skills in HTML and CSS implementation.
-
 ---
 
 ## 📑 **Table of Contents**  
@@ -30,7 +26,12 @@ This project is a responsive front-end clone of Blinkit (formerly Grofers), Indi
 🔹 [🐛 Bug Reporting](#-bug-reporting)  
 🔹 [📝 License](#-license)  
 🔹 [👨‍💻 Author](#-author)  
-🔹 [🙏 Acknowledgements](#-acknowledgements)  
+🔹 [🙏 Acknowledgements](#-acknowledgements) 
+
+---
+## 📋 Overview
+
+This project is a responsive front-end clone of Blinkit (formerly Grofers), India's leading instant grocery delivery service. The application features a clean, modern UI that closely resembles the original Blinkit platform, showcasing advanced skills in HTML and CSS implementation. 
 
 ---
 
