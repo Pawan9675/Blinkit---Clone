@@ -13,24 +13,25 @@ A meticulously crafted, pixel-perfect clone of the Blinkit grocery delivery plat
 This project is a responsive front-end clone of Blinkit (formerly Grofers), India's leading instant grocery delivery service. The application features a clean, modern UI that closely resembles the original Blinkit platform, showcasing advanced skills in HTML and CSS implementation.
 
 ---
+## 📑 Table of Contents
 
-## 📑 **Table of Contents**  
-🔹 [📋 Overview](#-overview)  
-🔹 [✨ Key Features](#-key-features)  
-🔹 [🛠️ Technologies Used](#-technologies-used)  
-🔹 [📁 Project Structure](#-project-structure)  
-🔹 [🚀 Getting Started](#-getting-started)  
-🔹 [📥 Installation](#-installation)  
-🔹 [🌐 Deployment](#-deployment)  
-🔹 [📱 Responsive Design](#-responsive-design)  
-🔹 [📸 Screenshots](#-screenshots)  
-🔹 [🧠 What You’ll Learn](#-what-youll-learn)  
-🔹 [🛣️ Future Improvements](#-future-improvements)  
-🔹 [🤝 Contributing](#-contributing)  
-🔹 [🐛 Bug Reporting](#-bug-reporting)  
-🔹 [📝 License](#-license)  
-🔹 [👨‍💻 Author](#-author)  
-🔹 [🙏 Acknowledgements](#-acknowledgements)  
+🔹 <a href="#overview" style="text-decoration: none;">📜 Overview</a>  
+🔹 <a href="#key-features" style="text-decoration: none;">✨ Key Features</a>  
+🔹 <a href="#technologies-used" style="text-decoration: none;">🛠️ Technologies Used</a>  
+🔹 <a href="#project-structure" style="text-decoration: none;">📁 Project Structure</a>  
+🔹 <a href="#getting-started" style="text-decoration: none;">🚀 Getting Started</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <a href="#installation" style="text-decoration: none;">📥 Installation</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <a href="#deployment" style="text-decoration: none;">🌐 Deployment</a>  
+🔹 <a href="#responsive-design" style="text-decoration: none;">📱 Responsive Design</a>  
+🔹 <a href="#screenshots" style="text-decoration: none;">📸 Screenshots</a>  
+🔹 <a href="#what-youll-learn" style="text-decoration: none;">🧠 What You’ll Learn</a>  
+🔹 <a href="#future-improvements" style="text-decoration: none;">🛣️ Future Improvements</a>  
+🔹 <a href="#contributing" style="text-decoration: none;">🤝 Contributing</a>  
+🔹 <a href="#bug-reporting" style="text-decoration: none;">🐛 Bug Reporting</a>  
+🔹 <a href="#license" style="text-decoration: none;">📝 License</a>  
+🔹 <a href="#author" style="text-decoration: none;">👨‍💻 Author</a>  
+🔹 <a href="#acknowledgements" style="text-decoration: none;">🙏 Acknowledgements</a>  
+
 
 ---
 
@@ -208,12 +209,9 @@ This project is **open-source** and licensed under the **MIT License**. You’re
 
 ---
 
----
 <p align="center">
   💖 Made with passion by <strong>Pawan Kumar Singh</strong>  
 </p>
 <p align="center">
   🚀 Keep coding, keep learning, and keep building! 🌟
 </p>
-
-  
