@@ -2,9 +2,14 @@
 
 A meticulously crafted, pixel-perfect clone of the Blinkit grocery delivery platform, built with pure HTML and CSS. This project showcases modern front-end development practices, delivering a seamless and responsive user experience across all devices.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://blinkit-swart.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Pawan9675/Blinkit---Clone)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+**Live Demo**  
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=vercel)](https://blinkit-swart.vercel.app/)  
+
+**GitHub Repository**   
+[![GitHub Repo](https://img.shields.io/badge/💻%20GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Pawan9675/Blinkit---Clone)  
+
+📜 **License**  
+[![License](https://img.shields.io/badge/📜%20License-MIT-yellow?style=for-the-badge&logo=open-source-initiative)](https://opensource.org/licenses/MIT)  
 
 ![Blinkit Clone Demo](Images/desktop-demo.gif)
 
