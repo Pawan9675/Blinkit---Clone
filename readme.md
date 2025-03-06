@@ -6,7 +6,7 @@ A meticulously crafted, pixel-perfect clone of the Blinkit grocery delivery plat
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Pawan9675/Blinkit---Clone)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
-![Blinkit Clone Screenshot](Images/screenshot1.png)
+![Blinkit Clone Demo](Images/desktop-demo.gif)
 
 ## 📋 Overview
 
@@ -112,12 +112,12 @@ The application is **fully optimized** for all screen sizes:
 
 ### 🖥️ **Desktop View**  
 <p align="center">
-  <img src="Images/screenshot1.png" alt="Desktop View" width="700px">
+  <img src="Images/desktop-demo.gif" alt="Desktop View" width="700px">
 </p>
 
 ### 📱 **Mobile View**  
 <p align="center">
-  <img src="Images/screenshot2.jpg" alt="Mobile View" width="350px">
+  <img src="Images/mobile-demo.gif" alt="Mobile View" width="350px">
 </p>
 
 ---
